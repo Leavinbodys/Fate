@@ -1,0 +1,10 @@
+local info = {
+  discord = "https://discord.gg/QCj6sF4zYJ";
+  status = "enabled";
+  announcement = "";
+  support_discord = {
+    strucid = "nevertobeseenagain";
+    da_hood = "nevertobeseenagain";
+  }
+}
+return info
